@@ -22,3 +22,9 @@ Ahora bien si se considera un ecosistema donde hay presas (presas, P) y depredad
 - D → 0  
 
 El primero de ellos representa el crecimiento de las presas, el segundo el crecimiento de los depredadores como consecuencia de comer las presas y el tercero la muerte de los depredadores por razones naturales.
+
+## Fases previas
+
+[Video fase 1](https://youtu.be/4zmz8H0kPvk) 
+
+[Video fase 2](https://youtu.be/BjEsqIt8ciw)
